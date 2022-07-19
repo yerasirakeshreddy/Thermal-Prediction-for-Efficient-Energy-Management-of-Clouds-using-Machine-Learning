@@ -11,5 +11,6 @@ and significantly reduce power consumption, you need to accurately predict host 
 dissipation and power consumption based on workload levels. 
 Temperature prediction can be performed using machine learning techniques such as 
 regression algorithms. It then uses scheduling algorithm to reduce the temperature of the host. 
+
 Keywords: Cloud Computing, Machine Learning, Energy Efficiency , datacentre cooling, 
 hotspots
